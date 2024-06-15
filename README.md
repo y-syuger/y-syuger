@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @y-syuger.
-- 👀 I’m interested in Physics and Date Science.
+- 👀 I’m interested in Physics and Programing.
 - 🌱 I’m currently learning Python and want to start Ruby.
 - 😄 Pronouns: ...He
 
